@@ -14,3 +14,5 @@ A non blcoking timer I've developped for the project. Feel free to use it if it 
 A pile structure used in
 
 [reels_and_random_logic.h]:(./src/SlotMachine_Gala_2026/reels_and_random_logic.h)
+
+to keep track of the symbol whom you're checking victory condition. 
