@@ -44,6 +44,10 @@ RGBmatrixPanel *matrix = new RGBmatrixPanel(A, B, C, D, CLK, LAT, OE, true, 64);
 #define clearmatrix()      fillScreen(0) // Définit la fonction matrix->clearmatrix() pour effacer la matrice
 #define show()         swapBuffers(true) // Définit la fonction matrix->show() raffraichit la matrice.
 
+#include "pile.h"
+#include "reels_and_random_logic.h"
+#include "images.h"
+#include "matrix_text.h"
 
 
 //--------------------------//
@@ -59,11 +63,6 @@ void leverInterruptor(){
   // Interruption du levier: il passe à TRUE quand on le tire
   if(!inGame)lever = true;
 }
-
-#include "pile.h"
-#include "reels_and_random_logic.h"
-#include "images.h"
-#include "matrix_text.h"
 
 void setup() {
   //Serial.begin(9600);
