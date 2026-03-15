@@ -9,7 +9,7 @@ This machine uses 5 reels with 3 symbols each, means that you display 15 symbols
 #### The payline AKA "Why do you need 5 symbols and WHY IT'S NOT A LINE????"
 A payline in a slot machine is defined by the type of machine you use. In this case, you need 5 symbols, thus the payline is always defined as a group of 5 symbols.
 
-**DEFINITION**: a payline is a group of 5 compatible symbols, each one coming from a different reel. Symbols are compatible if they are the same symbol **OR** one of them is the wild symbol (the joker hat here). Exeption if made for the scatter symbol (the casino coin), which is compatible with itself only.
+**DEFINITION**: a payline is a group of 5 compatible symbols, each one coming from a different reel. Symbols are compatible if they are the same symbol **OR** one of them is the wild symbol (the joker hat here). Exeption is made for the scatter symbol (the casino coin), which is compatible with itself only.
 ## How to build the machine?
 1. Hardware: get an Arduino MEGA, an 64x32 RGB Matrix,  some wires, a button. Build the box out of what you have, I made mine with 8.5 mm MDF.
 2. Software: get the Arduino IDE and install Adafruit's RGBMatrixPanel lib.
