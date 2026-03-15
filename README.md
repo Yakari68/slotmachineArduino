@@ -1,7 +1,7 @@
 # slotmachineArduino
 Simple slot machine project, based on an Arduino MEGA with a 64x32 RGB LED matrix.
 
-# Presentation (May Golshi help me)
+# Presentation [(May Golshi help me)](https://www.youtube.com/shorts/HzwK-xqT4yc)
 ## What's this machine?
 It's a slot machine you can find in casinos. It was meant to decorate the room for the school's Gala in 2026, which theme was "Royal Casino".
 ## How does it works? User edition
