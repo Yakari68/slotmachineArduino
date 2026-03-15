@@ -11,4 +11,6 @@ Simple slotmachine project, based on an Arduino MEGA with a 64x32 RGB LED matrix
 ### was.h: is it even working?
 A non blcoking timer I've developped for the project. Feel free to use it if it even works.
 ### pile.h: this is surely not working.
-A pile structure used in [reels_and_random_logic.h]:(./src/SlotMachine_Gala_2026/reels_and_random_logic.h)
+A pile structure used in
+
+[reels_and_random_logic.h]:(./src/SlotMachine_Gala_2026/reels_and_random_logic.h)
