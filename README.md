@@ -1,4 +1,4 @@
-# slotmachineArduino
+# slotmachineArduino ![MBOT Logo](./images/MBOT24x24.png)
 Simple slot machine project, based on an Arduino MEGA with a 64x32 RGB LED matrix.
 
 # Presentation [(May Golshi help me)](https://www.youtube.com/shorts/HzwK-xqT4yc)
